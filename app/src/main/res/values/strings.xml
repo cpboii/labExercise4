@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">labExercise4</string>
+    <string name="date_of_birth">Date of Birth :</string>
+    <string name="age">Age :</string>
+    <string name="min_basic_saving">Min. Basic Saving :</string>
+    <string name="allowance_investment">Allowance Investment :</string>
+</resources>
